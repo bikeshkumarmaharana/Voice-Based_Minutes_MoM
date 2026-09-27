@@ -1,0 +1,14 @@
+faster-whisper
+pyannote.audio
+pydub
+gradio
+python-docx
+fpdf2
+sentencepiece
+sacremoses
+transformers>=4.41,<5.0.0
+accelerate
+torch
+torchaudio
+langdetect
+soundfile
