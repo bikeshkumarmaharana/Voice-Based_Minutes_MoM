@@ -1,0 +1,80 @@
+{
+    "generated_at": "2026-09-27T03:37:02.303678Z",
+    "meeting_duration_sec": 38.0,
+    "languages_detected": [
+        "hi"
+    ],
+    "speakers": [
+        "Person 1",
+        "Person 2"
+    ],
+    "speaker_statistics": [
+        {
+            "Speaker": "Person 1",
+            "Speaking Time (s)": 28.0,
+            "Speaking Time (%)": 73.7,
+            "Segments": 4
+        },
+        {
+            "Speaker": "Person 2",
+            "Speaking Time (s)": 10.0,
+            "Speaking Time (%)": 26.3,
+            "Segments": 3
+        }
+    ],
+    "transcript": [
+        {
+            "speaker": "Person 1",
+            "start": 0.0,
+            "end": 18.0,
+            "language": "hi",
+            "text": "मैं AI पे थीक थाक रिसर्च करता हूँ। मुझे मेरा प्री अक्षेत रहा है। अभी AI के जो बौट्स आये हैं, मैं अपने फोन में सारे यूस करता हूँ। ग्रोक का जो सूपर ग्रोक है वो भी यूस करता हूँ। पर प्लेक्सिटी का भी जो। और इन साम के पेड वर्चन यूस करता हूँ ताकि जो मैक्सिमम लेवल है वो देख सकूँ। चेट जेपिटी यूस करता हूँ।"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 18.0,
+            "end": 24.0,
+            "language": "hi",
+            "text": "किन जीज़ों के लिए यूस करते हैं हाँ? ग्रोक तो मैं प्रॉट्रा पर देखते हूँ लोग साथ वेरिफाई करते हैं, फाक्ट पगरा, फाक्ट चेक टाइप।"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 24.0,
+            "end": 27.0,
+            "language": "hi",
+            "text": "ग्रोक तो सब कुश कर सकता हैं जो भी आप सोसती हैं।"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 27.0,
+            "end": 30.0,
+            "language": "hi",
+            "text": "अच्छा, मैं नहीं तक AI से बहुत दूर रखा हूँ अपने आपको।"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 30.0,
+            "end": 36.0,
+            "language": "hi",
+            "text": "अगर आप AI से दूर हैं तो बहुत जल्दी लोग आपको आवडेट बोलना शुख रहेंगे। अगर आप AI से दूर हैं तो।"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 36.0,
+            "end": 37.0,
+            "language": "hi",
+            "text": "अभी तक तो हाँ?"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 37.0,
+            "end": 38.0,
+            "language": "hi",
+            "text": "इकदम नहीं।"
+        }
+    ],
+    "summary": "I'm doing a lot of AI research. I'm using all the AI bots that just came in my phone. If you're away from AI, people will soon be afraid to talk to you about it.",
+    "key_discussion_points": "Answer: None identified.",
+    "decisions": "None identified.",
+    "action_items": "None identified."
+}
