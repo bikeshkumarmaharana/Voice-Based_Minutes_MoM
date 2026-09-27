@@ -1,0 +1,171 @@
+{
+    "generated_at": "2026-09-27T04:15:41.7638412Z",
+    "meeting_duration_sec": 102.0,
+    "languages_detected": [
+        "or"
+    ],
+    "speakers": [
+        "Person 1",
+        "Person 2"
+    ],
+    "speaker_statistics": [
+        {
+            "Speaker": "Person 1",
+            "Speaking Time (s)": 65.3,
+            "Speaking Time (%)": 64.0,
+            "Segments": 10
+        },
+        {
+            "Speaker": "Person 2",
+            "Speaking Time (s)": 36.7,
+            "Speaking Time (%)": 36.0,
+            "Segments": 10
+        }
+    ],
+    "transcript": [
+        {
+            "speaker": "Person 1",
+            "start": 0.03,
+            "end": 5.03,
+            "language": "or",
+            "text": "ଆପଣଙ୍କର ଯେ ପ୍ରତିଦ୍ବନ୍ଦୀ ଅଛନ୍ତି ସିଏଏ ତିନି ମାଙ୍କଳ୍କ ଭିତରେ ରହିବେ ନା bଜେp ଦଳକୁ ଆସିଲେ"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 5.03,
+            "end": 9.13,
+            "language": "or",
+            "text": "ତ ମୁଁ ଜାଣି ପାରୁ ନାହିଁ ଆପଣ କାହାକୁ ତିନି ମାଙ୍କଡ ଭିତରେ ଗଣୁଛନ୍ତି ଆଉ କାହାକୁ ନାହିଁ"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 9.13,
+            "end": 12.13,
+            "language": "or",
+            "text": "ମୁଁ ସେତେବେଳେ ଗଣି ପାରିବି ଯେତେବେଳେ ଉପାସନ ତାଲିକାଲେ"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 12.13,
+            "end": 14.12,
+            "language": "or",
+            "text": "ନ ଧୋରା ରାଜନୀତି କୁ କଲଚର ରେମୁ ନାହିଁ"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 14.12,
+            "end": 16.33,
+            "language": "or",
+            "text": "ଆଉଟ ଅଫ ଏକ୍ସାଇଟମେଣ୍ଟ ତିନି ମାଙ୍କଟ କତା କହି ଯାଇଥିଲେ"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 16.33,
+            "end": 23.35,
+            "language": "or",
+            "text": "ଆଗ ପ୍ରମାଣ କରିକେ ଦେଖାନ୍ତୁ କି ମୁଁ କାହାକୁ ପର୍ସନଲୀ ଆଖେପ କରିଛି କି ଅମୁଖ ହୋଉଛନ୍ତି ଅମୁଖ ପଶୁ କି"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 22.64,
+            "end": 24.38,
+            "language": "or",
+            "text": "ହିସୈ ସ୍ପଷ୍ଟୁତ ଆପଣ କରିବେ ନା"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 24.55,
+            "end": 27.15,
+            "language": "or",
+            "text": "ଆଗଞ୍ଜାଭୁ ସ୍ପଷ୍ଟିକରଣ ଦେଇ ସାରିଛି"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 27.15,
+            "end": 32.19,
+            "language": "or",
+            "text": "ଉପେଷନା ଆପଣ ଏଗ୍ରେସିଭ ପଲିଟିକ୍ସରେ ବିଶ୍ବାସ କରନ୍ତି ନା ସମ୍ମିଶିଭ ପଲିଟିକ୍ସରେ ବିଶ୍ବାସ କରନ୍ତି"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 32.53,
+            "end": 34.03,
+            "language": "or",
+            "text": "ଆଗେ ଯଉଠି ଯହା ଦରକାର ପଡ଼େ"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 34.03,
+            "end": 38.13,
+            "language": "or",
+            "text": "କେବଳ ବିରୋଧୀଙ୍କ ବିରୋଧର ଏଗ୍ରେଶନ୍ ନା ଅନ୍ୟାୟର ବିରୋଧର ଏଗ୍ରେଶୀହୁଅ"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 38.13,
+            "end": 39.94,
+            "language": "or",
+            "text": "ନିହାତିନାଭରେ ଅନ୍ୟାୟ ବିରୁଦ୍ଧରେ ଏଗ୍ରେଶନ"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 40.16,
+            "end": 41.07,
+            "language": "or",
+            "text": "ଭିରଥଙ୍କ ଭିରଦେ"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 41.39,
+            "end": 45.22,
+            "language": "or",
+            "text": "ବିରୋଧୀଙ୍କ ବିରୋଧରେ ଅଗ୍ରେସିବିଲୀ ଯଦି ନଲଅଡ଼ି ଥାନ୍ତେ ତା ହଲି ଆଜି ଅସ୍ତିତ୍ବ ହିନ ଥାନ୍ତା"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 45.21,
+            "end": 46.4,
+            "language": "or",
+            "text": "1pp1"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 47.3,
+            "end": 49.32,
+            "language": "or",
+            "text": "ଲୁଲୁଭାବୁଙ୍କୁ ମିଉଁ ଆପଣଙକୁ ସାମନାରି ବସିଛି"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 59.4,
+            "end": 95.61,
+            "language": "or",
+            "text": "ଶୀତଳ ସାହିତ୍ଵ ନୁହେ ଏଗ୍ରେସିଭ ପଲିଟିକ୍ସ ତାଙ୍କର ରଉଛି ଉଡିଷା ବିଧ୍ୱଂସବାର ସର୍ବକନିଷ୍ଟ ବିଧାୟକ ଆଜି ଖୋଲା କଥାର ହଟ ଷୀଟର ଅତୀଥ୍ କିନ୍ତୁ ଆଲୋଚନା କରିବା ତିନି ମାଙ୍କଡ଼ର ଉପକ୍ଷାନକୁ ନାହ ଉପାସନା ଖୋଲା କଥାକୁ ସ୍ବାଗତ"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 95.61,
+            "end": 96.59,
+            "language": "or",
+            "text": "ଭଦବଧେବା"
+        },
+        {
+            "speaker": "Person 1",
+            "start": 96.99,
+            "end": 102.9,
+            "language": "or",
+            "text": "ଆପଣ କିନ୍ତୁ ସାମ୍ପ୍ରତିକ ପରିସ୍ଥିତିରେ ଗାନ୍ଧିଜିଙ୍କ ରେଲିଭେଟ୍ସକୁ କେନ୍ତି ଦେଖନ୍ତି ରେଲିଭେନ୍ଟ ଅଫ ଗାନ୍ଧିଜି"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 103.26,
+            "end": 114.07,
+            "language": "or",
+            "text": "ଯଦି ଆପଣ ଆଜିକା ତାରିଖ ରେ ଆଣ୍ଡଦୟ ରେଜିମ ଅଫ୍ ଶ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦିଜି ଆଜିରୋ ତାରିଖରେ ଆପଣ ଯଦି ଗାନ୍ଧି ଯିଙ୍କୁ ରେଲିଭେନ୍ସ ମୋତେ ପୋଚଭରିବେ"
+        }
+    ],
+    "summary": "Culture does not restore the politics of the country. Your rivals are CAA, stay in the three monkeys or join the BJP. If the Agressibili had not been against the opposition, today would not have existed.",
+    "key_discussion_points": "Key discussion points: Upshanas: I welcome the Open Speech of the people of Mananjhan",
+    "decisions": "None identified.",
+    "action_items": "None identified."
+}
