@@ -1,0 +1,108 @@
+{
+    "generated_at": "2026-09-27T03:28:13.988224Z",
+    "meeting_duration_sec": 192.1,
+    "languages_detected": [
+        "en"
+    ],
+    "speakers": [
+        "Person 1",
+        "Person 2",
+        "Person 3",
+        "Person 4",
+        "Person 5",
+        "Person 6"
+    ],
+    "speaker_statistics": [
+        {
+            "Speaker": "Person 3",
+            "Speaking Time (s)": 58.3,
+            "Speaking Time (%)": 30.4,
+            "Segments": 1
+        },
+        {
+            "Speaker": "Person 1",
+            "Speaking Time (s)": 37.8,
+            "Speaking Time (%)": 19.7,
+            "Segments": 1
+        },
+        {
+            "Speaker": "Person 2",
+            "Speaking Time (s)": 33.5,
+            "Speaking Time (%)": 17.4,
+            "Segments": 2
+        },
+        {
+            "Speaker": "Person 4",
+            "Speaking Time (s)": 23.6,
+            "Speaking Time (%)": 12.3,
+            "Segments": 1
+        },
+        {
+            "Speaker": "Person 5",
+            "Speaking Time (s)": 23.3,
+            "Speaking Time (%)": 12.1,
+            "Segments": 1
+        },
+        {
+            "Speaker": "Person 6",
+            "Speaking Time (s)": 15.6,
+            "Speaking Time (%)": 8.1,
+            "Segments": 1
+        }
+    ],
+    "transcript": [
+        {
+            "speaker": "Person 1",
+            "start": 0,
+            "end": 37.84,
+            "language": "en",
+            "text": "Good morning everyone today I would like to start the conversation by addressing the fundamental points about AI as we all know that Artificial intelligence is the most crucial part which is playing most crucial part in everybody's life We have been pretty familiar with all the things like chart GPT and many thing as a computer science student We are I mean we are even more familiar with those things of artificial intelligence and all as Like to start this Discussion and later on I would add some points after few of the speak people started speaking about it"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 40.78,
+            "end": 70.46,
+            "language": "en",
+            "text": "So, thank you for giving this opportunity. I would like to say the best points about artificial intelligence and artificial is mainly It helps in many aspects of our life helps me study purposes and building and make our task easy and comfortable with the comfort and Helps in taking the decisions very fluently and reducing the repetitive repetitive costs which are hand which are button duty hormones and"
+        },
+        {
+            "speaker": "Person 2",
+            "start": 72.18,
+            "end": 75.98,
+            "language": "en",
+            "text": "The button duty hormones and makes it very comfortable and easy"
+        },
+        {
+            "speaker": "Person 3",
+            "start": 76.58,
+            "end": 134.92,
+            "language": "en",
+            "text": "So guys, we know that every topic has some pros and cons. So while we are discussing about the pros we have in the same section of the Main cons also, I mean negative points also. So we are handling both positive and negative for one topic So coming to this topic artificial intelligence, we are discussing about the positive and negative. So coming to my positive side Yeah, while you are so while you are seeing this Generation, so we are very dependent on the artificial intelligence while you are searching for the problem So generally it is difficult to identify the solution So in this generation by the users usage of artificial intelligence, we are easy to identify the solution So we are the students now you are it feeling difficult to identify the perfect solution of the problem So you are going to an artificial intelligence ask you can You can minimize this problem to give some correct the solutions It will be giving it within seconds our correct the solution So I said artificial intelligence is very helpful for students by minimizing the complex problem"
+        },
+        {
+            "speaker": "Person 4",
+            "start": 137.63,
+            "end": 161.27,
+            "language": "en",
+            "text": "Yeah, has me you're absolutely right a can be under a can reduce the Can reduce the task to perform by humans and can and we can perform the task more efficient than accurately But the one of the cons of the Is it can replace the jobs? So due to that are the people may lose their jobs"
+        },
+        {
+            "speaker": "Person 5",
+            "start": 163.79,
+            "end": 187.07,
+            "language": "en",
+            "text": "I disagree with you guide three because are you thinking that artificial intelligence really replace human human resources? it's not because We are the creators of artificial intelligence and not and not we are created by artificial intelligence We have the creative intuition to For the decision-making which artificial intelligence lags on"
+        },
+        {
+            "speaker": "Person 6",
+            "start": 189.47,
+            "end": 204.99,
+            "language": "en",
+            "text": "Even though we are the creators One creator can do the a lot of things that we can create the games or any sort of problems If we have the same idea regarding the problem If another guy has the same problem he can grab your answer"
+        }
+    ],
+    "summary": "Artificial intelligence helps in many aspects of our life helps me study purposes and building and make our task easy and comfortable with the comfort. Helps in taking the decisions very fluently and reducing the repetitive repetitive costs which are hand which are button duty hormones.",
+    "key_discussion_points": "Artificial intelligence is playing most crucial part in everybody's life",
+    "decisions": "None identified.",
+    "action_items": "None identified."
+}
